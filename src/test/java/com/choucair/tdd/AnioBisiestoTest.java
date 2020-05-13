@@ -35,10 +35,3 @@ public class AnioBisiestoTest {
     }
 }
 
-    /*
-    Requisitos: 
-    -Todos los anios divisibles por 400 SON anios bisiestos (1600,2000,2400),
-    -Todos los anios divisibles por 100 pero no por 400 NO son anios bisiestos (1700, 1800, 1900),
-    -Todos los anios divisibles por 4 pero no por 100 NO son anios bisiestos (1996, 2004, 2008),
-    -Todos los anios no divisibles por 4  NO son anios bisiestos(2017, 2018, 2019).
-   */
